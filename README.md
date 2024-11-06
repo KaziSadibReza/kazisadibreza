@@ -34,6 +34,7 @@ I love to read books and listen to music.
 <br>
 
 ![](https://github-readme-stats.vercel.app/api?username=kazisadibreza&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br>
+<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kazisadibreza&theme=github_dark_dimmed&hide_border=false)<br/>
 
 <div>
