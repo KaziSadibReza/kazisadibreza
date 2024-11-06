@@ -33,13 +33,16 @@ I love to read books and listen to music.
 - ⚡ Fun fact: I love to sing , I love o travel on motorcycle.<br>
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=kazisadibreza&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br>
-<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kazisadibreza&theme=github_dark_dimmed&hide_border=false)<br/>
-
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazisadibreza&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kazisadibreza&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazisadibreza&theme=github_dark_dimmed&hide_border=true"  height="150"/>
 </div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazisadibreza&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&layout=compact"height="150" />
+</p>
+
+
 
 
 
